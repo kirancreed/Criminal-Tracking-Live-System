@@ -77,6 +77,7 @@ They can register cases based on reported crimes and conduct investigations to v
 They receive and review notifications from the admin.
 They can send responses to messages received.
 They have access to a system for viewing registered complaints filed by the public.
+
 <img src="assets/pl.png" alt="Admin Module Screenshot" width="600" height="400">
 
 
@@ -100,3 +101,20 @@ The resulting images are compared with existing images in the dataset. If a matc
 
 If a criminal is detected, an alert message is sent to the person along with the captured images and details of the criminals using this application.
 
+<img src="assets/warr.png" alt="Admin Module Screenshot" width="600" height="400">
+
+### Screenshot
+<figure>
+  <img src="assets/int.png" alt="Interface" width="800" height="450">
+  <figcaption>HomePage</figcaption>
+</figure>
+
+<figure>
+  <img src="assets/loo.png" alt="Interface" width="800" height="450">
+  <figcaption>Login page</figcaption>
+</figure>
+
+<figure>
+  <img src="assets/war1.png" alt="Interface" width="800" height="450">
+  <figcaption>Warming page</figcaption>
+</figure>
