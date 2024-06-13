@@ -60,7 +60,7 @@ Search people: Administrators can conduct authorized searches on individuals wit
 Manage notifications and messages: This includes sending system-generated alerts, viewing existing notifications, and replying to messages sent through the platform.
 Verify warnings: Administrators can access and confirm the validity of warnings issued within the system. 
 
-<img src="images/111.png" alt="Admin Module Screenshot" width="600" height="400">
+<img src="assets/admin crime.png" alt="Admin Module Screenshot" width="600" height="400">
 
 ### People Module
 
@@ -68,6 +68,7 @@ Has the right to submit complaints to the relevant police station.
 Can view notifications regarding their submitted complaints or inquiries.
 Can respond to messages received through official communication channels.
 Can edit their profile information within the designated system. 
+<img src="assets/ppl.png" alt="Admin Module Screenshot" width="600" height="400">
 
 ### Police Module
 
@@ -76,6 +77,8 @@ They can register cases based on reported crimes and conduct investigations to v
 They receive and review notifications from the admin.
 They can send responses to messages received.
 They have access to a system for viewing registered complaints filed by the public.
+<img src="assets/pl.png" alt="Admin Module Screenshot" width="600" height="400">
+
 
 ### Image Segmentation Module
 
